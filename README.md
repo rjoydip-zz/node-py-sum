@@ -6,7 +6,6 @@ Node.js and python communication application. Simple sum of the array.
 ```sh
 $ git clone https://github.com/Rjoydip/nodepy-sum.git # or clone your own fork
 $ cd nodepy-sum
-$ npm install
 $ npm start
 ```
 
